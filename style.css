@@ -1,0 +1,11 @@
+.box1 {
+  height: 800px;
+  width: 300px;
+  background-size: contain;
+  background-repeat: cover;
+  background-image: url("./pictures/kobu-agency-1071534-unsplash_web.jpg");
+  padding-top: 0px;
+  text-align: center;
+  font-size: 50px;
+  box-sizing: border-box;
+}
